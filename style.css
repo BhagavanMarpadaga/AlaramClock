@@ -11,6 +11,7 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;    
 }
+/* =====================Styles for clock ====================*/
 .clock
 {
     margin-top: 30px;
@@ -92,6 +93,8 @@ body{
     height: 40%;
     background-color: black;
 }
+
+/* ==============styles for digital clock ===================*/
 .number-clock
 {
     margin-top: 30px;
