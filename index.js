@@ -88,7 +88,7 @@ function addAlaram(newTime)
     if(newTime)
     {
         alarmlist.push(newTime);
-        showNotification("alaram settled successfully");
+        //showNotification("alaram settled successfully");
         createDomEle(newTime);
         return;
     }
